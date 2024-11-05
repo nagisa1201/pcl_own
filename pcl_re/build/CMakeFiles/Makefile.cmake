@@ -192,4 +192,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/pcd_read.dir/DependInfo.cmake"
   "CMakeFiles/pcd_write.dir/DependInfo.cmake"
   "CMakeFiles/concatenate.dir/DependInfo.cmake"
+  "CMakeFiles/transform_mat.dir/DependInfo.cmake"
+  "CMakeFiles/pass_filter.dir/DependInfo.cmake"
   )
